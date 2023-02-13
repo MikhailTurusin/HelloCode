@@ -1,0 +1,15 @@
+D:\Developer\C#\Lesson_1\Exp1\bin\Debug\net6.0\Exp1.exe
+D:\Developer\C#\Lesson_1\Exp1\bin\Debug\net6.0\Exp1.deps.json
+D:\Developer\C#\Lesson_1\Exp1\bin\Debug\net6.0\Exp1.runtimeconfig.json
+D:\Developer\C#\Lesson_1\Exp1\bin\Debug\net6.0\Exp1.dll
+D:\Developer\C#\Lesson_1\Exp1\bin\Debug\net6.0\Exp1.pdb
+D:\Developer\C#\Lesson_1\Exp1\obj\Debug\net6.0\Exp1.csproj.AssemblyReference.cache
+D:\Developer\C#\Lesson_1\Exp1\obj\Debug\net6.0\Exp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\C#\Lesson_1\Exp1\obj\Debug\net6.0\Exp1.AssemblyInfoInputs.cache
+D:\Developer\C#\Lesson_1\Exp1\obj\Debug\net6.0\Exp1.AssemblyInfo.cs
+D:\Developer\C#\Lesson_1\Exp1\obj\Debug\net6.0\Exp1.csproj.CoreCompileInputs.cache
+D:\Developer\C#\Lesson_1\Exp1\obj\Debug\net6.0\Exp1.dll
+D:\Developer\C#\Lesson_1\Exp1\obj\Debug\net6.0\refint\Exp1.dll
+D:\Developer\C#\Lesson_1\Exp1\obj\Debug\net6.0\Exp1.pdb
+D:\Developer\C#\Lesson_1\Exp1\obj\Debug\net6.0\Exp1.genruntimeconfig.cache
+D:\Developer\C#\Lesson_1\Exp1\obj\Debug\net6.0\ref\Exp1.dll
